@@ -18,9 +18,6 @@ I'm a front-end developer who loves to create fast and responsive web applicatio
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ellirad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ellirad&icon=0&color=0)](https://visitcount.itsvg.in)
 
