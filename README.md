@@ -1,4 +1,4 @@
-Hi 👋 My name is Ellie Kiyani
+Hi 👋 My name is Ellie
 =============================
 
 Front end developer
